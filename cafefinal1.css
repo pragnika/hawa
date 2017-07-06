@@ -1,0 +1,81 @@
+
+    h1 {
+      font-family: "Italic";
+      letter-spacing: 20px;
+      class:center;
+    }
+
+    .button {
+      background-color: red;
+    }
+
+    .center{
+      font-size: 50px;
+    }
+
+    .wide {
+      max-width:1600px;
+      min-width:500px;
+    }
+    ul {
+      list-style-type: italic;
+      margin: 10;
+      padding: 10;
+    }
+
+    .main-image{
+      width: 80em;
+    }
+
+    .left-content {
+      width: 50%;
+      float: left;
+      height: 400px;
+    }
+
+     .left-content-image {
+      height: 400px;
+    }
+
+    .right-content {
+      width: 50%;
+      float: right;
+      height: 400px;
+    }
+
+    li {
+      display: inline;
+    }
+
+    .tab-buttons {
+      margin-bottom: 10px;
+    }
+
+
+.topnav1 {
+  overflow: hidden;
+  background-color: blue;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: green;
+  color: black;
+}
+
+.topnav a.active {
+    background-color: green;
+    color: blue;
+}
+
+
+ 
